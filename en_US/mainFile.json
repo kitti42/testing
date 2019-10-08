@@ -1,1 +1,23 @@
-{"version":"1","workflows":[{"name":"1. Bouncing Ball (V4)","guid":"734710B4-FFE8-49A7-8F83-CA85B7A3EC78","version":"4","url":"https://github.com/kitti42/testing/blob/master/en_US/734710B4-FFE8-49A7-8F83-CA85B7A3EC78.zip?raw=true", "video":"734710B4-FFE8-49A7-8F83-CA85B7A3EC78/Assets/intro_video.mp4", "title":"Animating ball bounce", "message":"In easy 12 steps lets learn basic of Animate and create a ball bouncing animation. Watch video to learn essentials before getting started."},{"name":"2. Dancing Flames (V4)","guid":"2033f26e-077e-4b95-8ae7-5faf3c7f2142","version":"4","url":"https://github.com/kitti42/testing/blob/master/en_US/2033f26e-077e-4b95-8ae7-5faf3c7f2142.zip?raw=true", "video":"2033f26e-077e-4b95-8ae7-5faf3c7f2142/Assets/Dancing_Flame_intro_video.mp4", "title":"Dancing Flames", "message":"Let's get this fire crackling in easy 17 Steps. First, let's grab the extra tools required."}]}
+{ 
+   "version":"1",
+   "workflows":[ 
+      { 
+         "name":"1. Bouncing Ball (V4)",
+         "guid":"734710B4-FFE8-49A7-8F83-CA85B7A3EC78",
+         "version":"4",
+         "url":"https://github.com/kitti42/testing/blob/master/en_US/734710B4-FFE8-49A7-8F83-CA85B7A3EC78.zip?raw=true",
+         "video":"734710B4-FFE8-49A7-8F83-CA85B7A3EC78/Assets/intro_video.mp4",
+         "title":"Animating ball bounce",
+         "message":"In easy 12 steps lets learn basic of Animate and create a ball bouncing animation. Watch video to learn essentials before getting started."
+      },
+      { 
+         "name":"2. Dancing Flames (V5)",
+         "guid":"2033f26e-077e-4b95-8ae7-5faf3c7f2142",
+         "version":"5",
+         "url":"https://github.com/kitti42/testing/blob/master/en_US/2033f26e-077e-4b95-8ae7-5faf3c7f2142.zip?raw=true",
+         "video":"2033f26e-077e-4b95-8ae7-5faf3c7f2142/Assets/Dancing_Flame_intro_video.mp4",
+         "title":"Dancing Flames",
+         "message":"Let's get this fire crackling in easy 17 Steps. First, let's grab the extra tools required."
+      }
+   ]
+}
