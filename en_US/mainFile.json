@@ -2,20 +2,20 @@
    "version":"1",
    "workflows":[ 
       { 
-         "name":"1. Bouncing Ball (v3)",
+         "name":"1. Bouncing Ball (v6)",
          "guid":"734710B4-FFE8-49A7-8F83-CA85B7A3EC78",
-         "version":"3",
+         "version":"6",
          "url":"https://github.com/kitti42/testing/blob/master/en_US/734710B4-FFE8-49A7-8F83-CA85B7A3EC78.zip?raw=true",
-         "video":"https://github.com/kitti42/testing/blob/master/en_US/734710B4-FFE8-49A7-8F83-CA85B7A3EC78/intro_video.mp4",
+         "video":"http://10.193.40.50/en_US/734710B4-FFE8-49A7-8F83-CA85B7A3EC78/intro_video.mp4",
          "title":"Animating ball bounce",
          "message":"In easy 12 steps lets learn basic of Animate and create a ball bouncing animation. Watch video to learn essentials before getting started."
       },
       { 
-         "name":"2. Dancing Flames (v3)",
+         "name":"2. Dancing Flames (v6)",
          "guid":"2033f26e-077e-4b95-8ae7-5faf3c7f2142",
-         "version":"3",
+         "version":"6",
          "url":"https://github.com/kitti42/testing/blob/master/en_US/2033f26e-077e-4b95-8ae7-5faf3c7f2142.zip?raw=true",
-         "video":"https://github.com/kitti42/testing/blob/master/en_US/2033f26e-077e-4b95-8ae7-5faf3c7f2142/intro_video.mp4",
+         "video":"http://10.193.40.50/en_US/2033f26e-077e-4b95-8ae7-5faf3c7f2142/Dancing_Flame_intro_video.mp4",
          "title":"Dancing Flames",
          "message":"In this second onboarding tutorial we will be creating fire animation.Before starting tutorial we recommend you to watch intro video to learn basic of 'Symbol' and 'Tween'."
       }
